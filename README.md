@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @HashirDS
+# 👋 Hi, I’m @Hashir Mehfooz (Data Scientist)
 
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics, Big Data Analytics, SQL, and Generative AI.
 - 🌱 I’m currently doing my Bachelor's degree in Data Science (Final Year).
